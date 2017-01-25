@@ -7,8 +7,6 @@ import com.bignerdranch.android.nerdmart.inject.Injector;
 import com.bignerdranch.android.nerdmart.inject.NerdMartComponent;
 import com.bignerdranch.android.nerdmart.inject.NerdMartGraph;
 
-import javax.inject.Inject;
-
 import timber.log.Timber;
 
 /**
